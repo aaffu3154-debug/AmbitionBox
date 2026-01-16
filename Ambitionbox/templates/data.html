@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AmbitionBox – Data</title>
+<style>
+body{font-family:Segoe UI;background:#f4f6fb;padding:20px;}
+table{
+    width:100%;
+    background:white;
+    border-collapse:collapse;
+    border-radius:12px;
+    overflow:hidden;
+}
+th,td{
+    padding:14px;
+    border-bottom:1px solid #e5e7eb;
+}
+th{background:#eef1f7;font-size:13px;}
+tr:hover{background:#f9fafb;}
+.badge{background:#fde68a;padding:4px 8px;border-radius:6px;}
+a{display:inline-block;margin-bottom:15px;}
+</style>
+</head>
+<body>
+
+<a href="/">← Back</a>
+
+<table>
+<thead>
+<tr>
+    <th>Company</th>
+    <th>Industry</th>
+    <th>City</th>
+    <th>Rating</th>
+    <th>Salary (₹)</th>
+    <th>Founded</th>
+</tr>
+</thead>
+<tbody>
+{% for c in companies %}
+<tr>
+    <td><b>{{ c.title }}</b></td>
+    <td>{{ c.field }}</td>
+    <td>{{ c.city }}</td>
+    <td><span class="badge">{{ c.rating }}</span></td>
+    <td>{{ c.salary }}</td>
+    <td>{{ c.founded_in }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+</body>
+</html>

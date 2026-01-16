@@ -1,0 +1,201 @@
+Unnamed: 0,title,rating,salary,job,founded_in,field,other
+0,TCS,3.3,970000.0,2500.0,1968 (58 yrs old),IT Services & Consulting , Noida +438 other locations
+1,Accenture,3.7,650000.0,34900.0,1989 (37 yrs old),IT Services & Consulting , Noida +254 other locations
+2,Wipro,3.6,470000.0,7100.0,1945 (81 yrs old),IT Services & Consulting , Noida +369 other locations
+3,Cognizant,3.6,600000.0,734.0,1994 (32 yrs old),IT Services & Consulting , Noida +228 other locations
+4,Capgemini,3.7,470000.0,1700.0,1967 (59 yrs old),IT Services & Consulting , Noida +184 other locations
+5,HDFC Bank,3.8,150000.0,247.0,1994 (32 yrs old),Banking , Noida +1819 other locations
+6,Infosys,3.5,520000.0,2200.0,,IT Services & Consulting , Noida +246 other locations
+7,ICICI Bank,4.0,150000.0,15.0,1994 (32 yrs old),Banking , Noida +1436 other locations
+8,HCLTech,3.4,370000.0,178.0,,IT Services & Consulting , Noida +226 other locations
+9,Tech Mahindra,3.4,280000.0,351.0,1986 (40 yrs old),IT Services & Consulting , Noida +331 other locations
+10,Genpact,3.6,230000.0,652.0,1997 (29 yrs old),IT Services & Consulting , Noida +182 other locations
+11,Teleperformance,3.8,95500.0,1200.0,1978 (48 yrs old),BPO , Noida +253 other locations
+12,Axis Bank,3.6,100000.0,230.0,1993 (33 yrs old),Banking , Noida +1498 other locations
+13,Jio,4.4,62200.0,3.0,2018 (8 yrs old),Telecom , Noida +1882 other locations
+14,Concentrix Corporation,3.6,130000.0,82.0,1983 (43 yrs old),BPO , Noida +179 other locations
+15,Amazon,3.9,150000.0,1500.0,1994 (32 yrs old),Internet , Noida +518 other locations
+16,iEnergizer,4.6,23900.0,71.0,,BPO , Noida +51 other locations
+17,Reliance Retail,3.9,74600.0,135.0,2006 (20 yrs old),Retail , Noida +1150 other locations
+18,LTIMindtree,3.6,190000.0,436.0,1997 (29 yrs old),IT Services & Consulting , Noida +146 other locations
+19,IBM,3.9,210000.0,938.0,1911 (115 yrs old),IT Services & Consulting , Noida +160 other locations
+20,HDB Financial Services,3.9,50200.0,174.0,2007 (19 yrs old),NBFC , Noida +1089 other locations
+21,Larsen & Toubro Limited,3.9,74200.0,164.0,1938 (88 yrs old),Engineering & Construction , Noida +754 other locations
+22,Deloitte,3.7,250000.0,1300.0,1845 (181 yrs old),Management Consulting , Noida +187 other locations
+23,Kotak Mahindra Bank,3.6,86300.0,56.0,,Banking , Noida +681 other locations
+24,Reliance Industries,4.0,24100.0,72.0,,Oil & Gas , Noida +812 other locations
+25,Vodafone Idea,3.9,50300.0,38.0,2018 (8 yrs old),Telecom , Noida +703 other locations
+26,Bharti Airtel,3.8,49100.0,114.0,1952 (74 yrs old),Telecom , Noida +789 other locations
+27,BYJU'S,3.2,53500.0,72.0,2011 (15 yrs old),EdTech , Noida +321 other locations
+28,WNS,3.3,70400.0,82.0,1996 (30 yrs old),IT Services & Consulting , Noida +65 other locations
+29,Tata Motors,4.1,43200.0,172.0,1945 (81 yrs old),Automobile , Noida +505 other locations
+30,IDFC FIRST Bank,3.9,48600.0,27.0,,Banking , Noida +710 other locations
+31,Ernst & Young,3.4,140000.0,3400.0,2002 (24 yrs old),Management Consulting , Noida +132 other locations
+32,IndusInd Bank,3.4,51800.0,143.0,,Banking , Noida +786 other locations
+33,AU Small Finance Bank,3.9,28500.0,31.0,1996 (30 yrs old),Banking , Noida +782 other locations
+34,Flipkart,3.9,53800.0,174.0,2007 (19 yrs old),Internet , Noida +559 other locations
+35,Bajaj Finserv,3.9,29900.0,4.0,2007 (19 yrs old),NBFC , Noida +1160 other locations
+36,Muthoot FinCorp,4.5,8800.0,40.0,,NBFC , Noida +1087 other locations
+37,PwC,3.3,120000.0,821.0,1880 (146 yrs old),Management Consulting , Noida +132 other locations
+38,Infosys BPM,3.5,24100.0,72.0,2002 (24 yrs old),BPO , Noida +95 other locations
+39,Mahindra & Mahindra,4.0,39500.0,1.0,1945 (81 yrs old),Automobile , Noida +561 other locations
+40,DXC Technology,3.6,72600.0,189.0,2017 (9 yrs old),IT Services & Consulting , Noida +133 other locations
+41,HDFC Life,3.9,33100.0,115.0,,Insurance , Noida +697 other locations
+42,Bandhan Bank,3.7,25900.0,12.0,,Banking , Noida +995 other locations
+43,Conneqt Business Solutions,3.6,26400.0,363.0,2002 (24 yrs old),BPO , Noida +267 other locations
+44,Mphasis,3.3,73300.0,47.0,1998 (28 yrs old),IT Services & Consulting , Noida +63 other locations
+45,Yes Bank,3.7,43300.0,166.0,2004 (22 yrs old),Banking , Noida +540 other locations
+46,Tata Steel,4.0,33800.0,72.0,1907 (119 yrs old),Iron & Steel , Noida +228 other locations
+47,Quess,3.8,30500.0,2.0,2007 (19 yrs old),Recruitment , Noida +739 other locations
+48,Startek,3.1,24400.0,128.0,2017 (9 yrs old),BPO , Noida +107 other locations
+49,Asian Paints,4.0,25100.0,53.0,,Chemicals , Noida +547 other locations
+50,UltraTech Cement,4.1,24000.0,25.0,1983 (43 yrs old),Building Material , Noida +534 other locations
+51,Paytm,3.2,33900.0,325.0,,FinTech , Noida +418 other locations
+52,Shriram Finance,4.0,15200.0,8.0,1979 (47 yrs old),NBFC , Noida +1109 other locations
+53,Bajaj Finance,3.9,24100.0,72.0,,NBFC , Noida +965 other locations
+54,Maruti Suzuki,4.2,27400.0,693.0,1981 (45 yrs old),Automobile , Noida +446 other locations
+55,Equitas Small Finance Bank,4.4,13200.0,12.0,,Banking , Noida +479 other locations
+56,Sutherland Global Services,3.4,34400.0,289.0,,BPO , Noida +82 other locations
+57,EXL Service,3.6,43900.0,1400.0,,Analytics & KPO , Noida +63 other locations
+58,Cipla,4.1,26000.0,65.0,1935 (91 yrs old),Pharma , Noida +291 other locations
+59,Samsung,3.9,26300.0,28.0,1969 (57 yrs old),Consumer Electronics & Appliances , Noida +577 other locations
+60,Ericsson,3.9,42600.0,65.0,,Telecom , Noida +162 other locations
+61,Wells Fargo,3.7,55100.0,91.0,,Financial Services , Noida +28 other locations
+62,Dr. Reddy's,4.0,25900.0,9.0,1984 (42 yrs old),Pharma , Noida +213 other locations
+63,Optum Global Solutions,4.0,48300.0,71.0,2002 (24 yrs old),IT Services & Consulting , Noida +68 other locations
+64,Delhivery,3.8,21100.0,165.0,2011 (15 yrs old),Logistics , Noida +751 other locations
+65,ICICI Prudential Life Insurance,4.0,22900.0,472.0,2000 (26 yrs old),Insurance , Noida +505 other locations
+66,JPMorgan Chase & Co.,3.8,84700.0,629.0,1968 (58 yrs old),Financial Services , Noida +55 other locations
+67,JSW Steel,3.9,30300.0,102.0,1982 (44 yrs old),Iron & Steel , Noida +193 other locations
+68,HGS,3.7,20900.0,15.0,2000 (26 yrs old),BPO , Noida +121 other locations
+69,Jana Small Finance Bank,3.8,14300.0,56.0,2006 (20 yrs old),Banking , Noida +419 other locations
+70,Sun Pharmaceutical Industries,4.1,23200.0,283.0,,Pharma , Noida +263 other locations
+71,Amazon Development Centre India,3.8,38300.0,7.0,2017 (9 yrs old),Internet , Noida +146 other locations
+72,Ujjivan Small Finance Bank,4.0,12900.0,142.0,2017 (9 yrs old),Banking , Noida +532 other locations
+73,Hexaware Technologies,3.4,53100.0,543.0,1990 (36 yrs old),IT Services & Consulting , Noida +66 other locations
+74,Lupin,4.1,22500.0,34.0,,Pharma , Noida +202 other locations
+75,Zydus Lifesciences,3.9,19900.0,21.0,1952 (74 yrs old),Pharma , Noida +176 other locations
+76,L&T Construction,4.0,19200.0,72.0,1944 (82 yrs old),Engineering & Construction , Noida +432 other locations
+77,Ekart Logistics,3.9,15700.0,72.0,2009 (17 yrs old),Logistics , Noida +736 other locations
+78,Hindustan Unilever,4.2,24100.0,72.0,,FMCG , Noida +530 other locations
+79,KPMG India,3.4,64500.0,54.0,1993 (33 yrs old),Management Consulting , Noida +111 other locations
+80,ITC,3.9,24300.0,76.0,1910 (116 yrs old),FMCG , Noida +375 other locations
+81,Axis Max Life Insurance,4.0,19900.0,145.0,2000 (26 yrs old),Insurance , Noida +494 other locations
+82,Megha Engineering & Infrastructures,3.9,18400.0,24.0,1989 (37 yrs old),Engineering & Construction , Noida +405 other locations
+83,Tata Projects,4.2,22100.0,29.0,,Engineering & Construction , Noida +284 other locations
+84,Coforge,3.2,48500.0,132.0,,IT Services & Consulting , Noida +104 other locations
+85,FIS,3.8,38700.0,99.0,,FinTech , Noida +61 other locations
+86,Bajaj Life Insurance,3.9,17200.0,50.0,2001 (25 yrs old),Insurance , Noida +606 other locations
+87,L&T Technology Services,3.1,42700.0,72.0,2012 (14 yrs old),IT Services & Consulting , Noida +93 other locations
+88,Cholamandalam Investment & Finance,3.8,12700.0,12.0,1978 (48 yrs old),Financial Services , Noida +840 other locations
+89,IIFL Finance,4.0,14000.0,70.0,1995 (31 yrs old),NBFC , Noida +800 other locations
+90,Oracle,3.5,62400.0,1100.0,1977 (49 yrs old),Software Product , Noida +56 other locations
+91,Muthoot Finance,3.7,13000.0,83.0,,NBFC , Noida +784 other locations
+92,Indian Army,4.7,9500.0,72.0,1895 (131 yrs old),Defence & Aerospace , Noida +364 other locations
+93,JLL,4.1,24200.0,248.0,1999 (27 yrs old),Real Estate , Noida +85 other locations
+94,HCL Group,3.5,40000.0,72.0,1976 (50 yrs old),IT Services & Consulting , Noida +97 other locations
+95,eClerx,3.1,31600.0,228.0,2000 (26 yrs old),IT Services & Consulting , Noida +32 other locations
+96,Piramal Finance,4.2,12500.0,5.0,10k-50k,NBFC , Noida +424 other locations
+97,Virtusa Consulting Services,3.7,56300.0,1200.0,1996 (30 yrs old),IT Services & Consulting , Noida +55 other locations
+98,DMart,3.9,18200.0,181.0,2002 (24 yrs old),Retail , Noida +246 other locations
+99,HSBC Group,3.9,42600.0,130.0,1865 (161 yrs old),Financial Services , Noida +63 other locations
+100,Indiamart Intermesh,3.5,20300.0,513.0,1996 (30 yrs old),Internet , Noida +172 other locations
+101,Udaan,3.9,15600.0,4.0,,Internet , Noida +368 other locations
+102,SMFG India Credit,3.9,10800.0,88.0,2007 (19 yrs old),NBFC , Noida +592 other locations
+103,Access Healthcare,3.7,28300.0,468.0,2011 (15 yrs old),BPO , Noida +64 other locations
+104,Siemens,3.9,33500.0,84.0,,Industrial Automation , Noida +152 other locations
+105,BigBasket,3.9,19000.0,100.0,,Internet , Noida +138 other locations
+106,Manappuram Finance,3.9,9000.0,7.0,1949 (77 yrs old),NBFC , Noida +647 other locations
+107,Shapoorji Pallonji Group,4.1,15300.0,67.0,1865 (161 yrs old),Engineering & Construction , Noida +188 other locations
+108,Firstsource Solutions,3.5,24000.0,143.0,2001 (25 yrs old),BPO , Noida +73 other locations
+109,Tata Capital,4.0,15500.0,2900.0,2007 (19 yrs old),NBFC , Noida +438 other locations
+110,GlobalLogic,3.5,40300.0,27.0,2000 (26 yrs old),IT Services & Consulting , Noida +60 other locations
+111,ICICI Lombard General Insurance Company,3.5,20100.0,176.0,2001 (25 yrs old),Insurance , Noida +311 other locations
+112,Standard Chartered,3.6,42100.0,72.0,1853 (173 yrs old),Banking , Noida +68 other locations
+113,Mahindra Finance,3.9,11900.0,396.0,1991 (35 yrs old),NBFC , Noida +730 other locations
+114,Apollo Hospitals,4.1,16300.0,142.0,1983 (43 yrs old),Healthcare , Noida +229 other locations
+115,PolicyBazaar,3.7,17100.0,414.0,,Internet , Noida +149 other locations
+116,Bosch Global Software Technologies,3.7,39900.0,14.0,1997 (29 yrs old),IT Services & Consulting , Noida +47 other locations
+117,UST,3.7,24100.0,72.0,,IT Services & Consulting , Noida +50 other locations
+118,Ashok Leyland,4.0,18600.0,72.0,1948 (78 yrs old),Automobile , Noida +255 other locations
+119,Citicorp,3.7,51800.0,72.0,1997 (29 yrs old),Financial Services , Noida +68 other locations
+120,Swiggy,3.7,22900.0,258.0,2014 (12 yrs old),Internet , Noida +228 other locations
+121,Hero MotoCorp,4.1,15700.0,2.0,1984 (42 yrs old),Automobile , Noida +364 other locations
+122,Cyient,3.6,27400.0,71.0,1991 (35 yrs old),IT Services & Consulting , Noida +48 other locations
+123,CGI Group,4.0,45200.0,783.0,1976 (50 yrs old),IT Services & Consulting , Noida +43 other locations
+124,SBI Cards & Payment Services,3.6,15800.0,99.0,1998 (28 yrs old),Financial Services , Noida +435 other locations
+125,Kalpataru Projects International,4.2,13600.0,1.0,1981 (45 yrs old),Engineering & Construction , Noida +321 other locations
+126,JustDial,3.5,15200.0,52.0,1996 (30 yrs old),Internet , Noida +229 other locations
+127,BNY,3.7,30800.0,1.0,1784 (242 yrs old),Financial Services , Noida +25 other locations
+128,IQVIA,3.7,30600.0,17.0,10k-50k,Clinical Research , Noida +63 other locations
+129,NTT Data,3.8,35800.0,99.0,1988 (38 yrs old),IT Services & Consulting , Noida +79 other locations
+130,SBI Life Insurance Company,3.7,11700.0,5.0,2001 (25 yrs old),Insurance , Noida +654 other locations
+131,Nagarjuna Construction Company,4.0,12000.0,5.0,1998 (28 yrs old),Engineering & Construction , Noida +295 other locations
+132,TVS Motor,3.9,15800.0,65.0,1979 (47 yrs old),Automobile , Noida +349 other locations
+133,CBRE,4.1,18600.0,18.0,1906 (120 yrs old),Real Estate , Noida +91 other locations
+134,Schneider Electric,4.2,24300.0,24.0,1999 (27 yrs old),Industrial Automation , Noida +119 other locations
+135,Persistent Systems,3.6,44400.0,243.0,,IT Services & Consulting , Noida +41 other locations
+136,Atos,3.8,34000.0,79.0,2000 (26 yrs old),IT Services & Consulting , Noida +49 other locations
+137,vivo,4.1,12900.0,8.0,2009 (17 yrs old),Consumer Electronics & Appliances , Noida +414 other locations
+138,State Bank of India,3.8,11600.0,8.0,1806 (220 yrs old),Banking , Noida +617 other locations
+139,Ecom Express,4.0,9600.0,72.0,2012 (14 yrs old),Logistics , Noida +774 other locations
+140,Eviden,3.6,28000.0,8.0,1k-5k,IT Services & Consulting , Noida +39 other locations
+141,KEC International,4.0,13400.0,4.0,1945 (81 yrs old),Engineering & Construction , Noida +312 other locations
+142,Amdocs,3.6,37400.0,9.0,1982 (44 yrs old),Software Product , Noida +23 other locations
+143,JBM Group,3.9,13900.0,42.0,,Auto Components , Noida +116 other locations
+144,Nagarro,3.9,32000.0,929.0,1996 (30 yrs old),IT Services & Consulting , Noida +49 other locations
+145,Varun Beverages,4.0,11900.0,36.0,1995 (31 yrs old),Beverage , Noida +379 other locations
+146,ITC Infotech,3.7,24100.0,72.0,,IT Services & Consulting , Noida +67 other locations
+147,Home Credit Finance,4.0,9400.0,95.0,2012 (14 yrs old),NBFC , Noida +136 other locations
+148,Bosch,4.1,20700.0,34.0,1886 (140 yrs old),Auto Components , Noida +130 other locations
+149,Randstad,3.7,16400.0,9.0,1992 (34 yrs old),Recruitment , Noida +352 other locations
+150,EY Global Delivery Services ( EY GDS),3.5,48500.0,10.0,2002 (24 yrs old),IT Services & Consulting , Noida +56 other locations
+151,Hewlett Packard Enterprise,4.1,27100.0,199.0,2015 (11 yrs old),IT Services & Consulting , Noida +103 other locations
+152,Mahindra Logistics,3.7,13000.0,1.0,2000 (26 yrs old),Logistics , Noida +233 other locations
+153,Utkarsh Small Finance Bank,3.6,10700.0,23.0,2009 (17 yrs old),Banking , Noida +407 other locations
+154,L&T Finance,3.9,11600.0,72.0,1994 (32 yrs old),NBFC , Noida +632 other locations
+155,Aditya Birla Fashion and Retail,4.1,13100.0,75.0,,Fashion & Textile , Noida +292 other locations
+156,OPPO,3.9,11900.0,10.0,2004 (22 yrs old),Consumer Electronics & Appliances , Noida +409 other locations
+157,Dell,3.8,28800.0,13.0,1984 (42 yrs old),Consumer Electronics & Appliances , Noida +117 other locations
+158,CARS24,3.4,24100.0,72.0,,Internet , Noida +173 other locations
+159,Havells,3.9,15100.0,33.0,1983 (43 yrs old),Electrical Equipment , Noida +260 other locations
+160,Intas Pharmaceuticals,4.1,17300.0,49.0,1977 (49 yrs old),Pharma , Noida +148 other locations
+161,R1 RCM,3.8,21200.0,153.0,2007 (19 yrs old),BPO , Noida +46 other locations
+162,Tata AIA Life Insurance,3.9,13900.0,678.0,2001 (25 yrs old),Insurance , Noida +442 other locations
+163,Hyundai Motor India Limited,4.1,13800.0,4.0,1967 (59 yrs old),Automobile , Noida +287 other locations
+164,Deutsche Bank,3.8,35900.0,370.0,1870 (156 yrs old),Banking , Noida +42 other locations
+165,Hetero,3.9,15000.0,147.0,,Pharma , Noida +67 other locations
+166,Motilal Oswal Financial Services,3.7,12900.0,51.0,,Financial Services , Noida +168 other locations
+167,Team Lease,3.9,16000.0,72.0,2016 (10 yrs old),Recruitment , Noida +396 other locations
+168,Berger Paints,3.7,10000.0,124.0,,Chemicals , Noida +354 other locations
+169,VE Commercial Vehicles,3.9,14100.0,6.0,2008 (18 yrs old),Automobile , Noida +179 other locations
+170,Lenskart,3.3,13200.0,126.0,,Internet , Noida +240 other locations
+171,Thermax Limited,4.2,13100.0,73.0,1966 (60 yrs old),Industrial Machinery , Noida +250 other locations
+172,Macleods Pharmaceuticals,3.7,15500.0,7.0,1986 (40 yrs old),Pharma , Noida +132 other locations
+173,Bajaj Auto,3.8,14500.0,72.0,1945 (81 yrs old),Automobile , Noida +317 other locations
+174,Aakash Educational Services,3.2,13700.0,67.0,1988 (38 yrs old),Education & Training , Noida +244 other locations
+175,Kogta Financial India Limited,4.7,1800.0,111.0,1996 (30 yrs old),NBFC , Noida +259 other locations
+176,Jubilant Foods Works,3.7,9200.0,191.0,1995 (31 yrs old),Hospitality , Noida +262 other locations
+177,LG Electronics,3.9,11000.0,72.0,1958 (68 yrs old),Consumer Electronics & Appliances , Noida +298 other locations
+178,Royal Enfield,4.2,14800.0,20.0,1901 (125 yrs old),Automobile , Noida +373 other locations
+179,Hindalco Industries,4.2,12400.0,5.0,1958 (68 yrs old),Metals & Mining , Noida +127 other locations
+180,Jindal Steel Limited,3.9,15600.0,26.0,1979 (47 yrs old),Iron & Steel , Noida +172 other locations
+181,HDFC Ergo General Insurance,4.0,12100.0,11.0,2002 (24 yrs old),Insurance , Noida +324 other locations
+182,Tata Communications,3.9,23500.0,37.0,1986 (40 yrs old),Telecom , Noida +102 other locations
+183,John Deere,4.0,15200.0,1.0,2001 (25 yrs old),Industrial Machinery , Noida +155 other locations
+184,DCB Bank,3.8,9400.0,8.0,,Banking , Noida +341 other locations
+185,RBL Bank,3.5,18300.0,49.0,1943 (83 yrs old),Banking , Noida +284 other locations
+186,Cummins,4.3,15600.0,7.0,1919 (107 yrs old),Industrial Machinery , Noida +114 other locations
+187,Oyo Rooms,3.1,14400.0,132.0,2012 (14 yrs old),Internet , Noida +121 other locations
+188,Pidilite Industries,4.2,11400.0,72.0,,Chemicals , Noida +312 other locations
+189,Alembic Pharmaceuticals,3.9,15300.0,59.0,1907 (119 yrs old),Pharma , Noida +187 other locations
+190,Reliance Communications,4.0,9500.0,72.0,2002 (24 yrs old),Telecom , Noida +467 other locations
+191,Bank of America,4.1,28100.0,72.0,1998 (28 yrs old),Banking , Noida +35 other locations
+192,Carelon Global Solutions,3.9,26600.0,14.0,10k-50k,IT Services & Consulting , Noida +21 other locations
+193,PVR INOX,3.9,9400.0,17.0,,Media & Entertainment , Noida +150 other locations
+194,Publicis Sapient,3.4,24100.0,72.0,,IT Services & Consulting , Noida +47 other locations
+195,Subros,3.8,12500.0,1.0,1985 (41 yrs old),Auto Components , Noida +88 other locations
+196,XpressBees,4.2,8100.0,12.0,2015 (11 yrs old),Logistics , Noida +474 other locations
+197,American Express,4.1,24500.0,136.0,1850 (176 yrs old),Financial Services , Noida +53 other locations
+198,PNB MetLife,3.4,8000.0,15.0,2001 (25 yrs old),Insurance , Noida +424 other locations
+199,Kyndryl,3.9,26100.0,32.0,,IT Services & Consulting , Noida +37 other locations
